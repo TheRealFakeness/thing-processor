@@ -1,0 +1,1 @@
+This program allows you to do several operations with values you enter, which can be either integers or strings.
